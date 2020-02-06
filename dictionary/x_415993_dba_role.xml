@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Roles" max_length="40" name="x_415993_dba_role" type="collection">
+        <element attributes="encode_utf8=false" label="Database" max_length="32" name="database" reference="x_415993_dba_database" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="database"/>
+        </index>
+    </element>
+</database>

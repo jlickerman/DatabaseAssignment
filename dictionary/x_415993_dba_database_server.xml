@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Database Servers" max_length="40" name="x_415993_dba_database_server" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="TCP Port" max_length="40" name="tcp_port" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Version" max_length="40" name="version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Environment" max_length="40" name="environment" type="string">
+            <choice>
+                <element inactive_on_update="false" label="DEV" value="dev"/>
+                <element inactive_on_update="false" label="PROD" value="prod"/>
+                <element inactive_on_update="false" label="QA" value="qa"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="MSSQL" value="mssql"/>
+                <element inactive_on_update="false" label="ORACLEEE" value="oracleee"/>
+                <element inactive_on_update="false" label="ORACLESE" value="oraclese"/>
+                <element inactive_on_update="false" label="SSAS" value="ssas"/>
+                <element inactive_on_update="false" label="SSRS" value="ssrs"/>
+                <element inactive_on_update="false" label="SYBASE" value="sybase"/>
+                <element inactive_on_update="false" label="SYBECDA" value="sybecda"/>
+                <element inactive_on_update="false" label="SYBIQ" value="sybiq"/>
+                <element inactive_on_update="false" label="SYBREP" value="sybrep"/>
+                <element inactive_on_update="false" label="VERTICA" value="vertica"/>
+            </choice>
+        </element>
+    </element>
+</database>

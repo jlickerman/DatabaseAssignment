@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Entitlements" max_length="40" name="x_415993_dba_entitlement" type="collection">
+        <element attributes="encode_utf8=false" label="Role" max_length="32" name="role" reference="x_415993_dba_role" type="reference"/>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="role"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

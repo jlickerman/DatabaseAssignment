@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Database Assignment">5bd8cf85db3600109fb51461399619e2</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Roles</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>7</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 21:02:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afd8cf09db3600109fb51461399619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Database Assignment" source="x_415993_dba">200cb985db3200109fb51461399619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Database Assignment">200cb985db3200109fb51461399619be</sys_scope>
+        <sys_update_name>sys_app_module_afd8cf09db3600109fb51461399619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 21:02:38</sys_updated_on>
+        <timeline_page/>
+        <title>Roles</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Database Assignment">200cb985db3200109fb51461399619be</application>
+        <file_path/>
+        <instance_id>0873adc2db5f9780439ef70fbf96195a</instance_id>
+        <instance_name>dev65131</instance_name>
+        <name>sys_app_module_afd8cf09db3600109fb51461399619f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Database Assignment">5bd8cf85db3600109fb51461399619e2</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Roles</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>7</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-04 21:02:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>afd8cf09db3600109fb51461399619f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Roles</sys_name><sys_overrides/><sys_package display_value="Database Assignment" source="x_415993_dba">200cb985db3200109fb51461399619be</sys_package><sys_policy/><sys_scope display_value="Database Assignment">200cb985db3200109fb51461399619be</sys_scope><sys_update_name>sys_app_module_afd8cf09db3600109fb51461399619f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-04 21:02:38</sys_updated_on><timeline_page/><title>Roles</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1299863101</payload_hash>
+        <record_name>Roles</record_name>
+        <reverted_from/>
+        <source>200cb985db3200109fb51461399619c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 21:02:38</sys_created_on>
+        <sys_id>67d8cf09db3600109fb51461399619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17012031c450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 21:02:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>afd8cf09af360010ef365b50e9b742f6</update_guid>
+        <update_guid_history>afd8cf09af360010ef365b50e9b742f6:-1299863101</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Roles">f5f0f3cddbb600109fb5146139961977</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 23:57:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0c9314fc57d944c881fbb14c88d29a40</sys_id>
+        <sys_metadata>afd8cf09db3600109fb51461399619f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Roles</sys_name>
+        <sys_package display_value="Database Assignment" source="x_415993_dba">200cb985db3200109fb51461399619be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Database Assignment">200cb985db3200109fb51461399619be</sys_scope>
+        <sys_scope_delete display_value="">f422a7bbf28d482ea6d733351d0f7cc9</sys_scope_delete>
+        <sys_update_name>sys_app_module_afd8cf09db3600109fb51461399619f5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_afd8cf09db3600109fb51461399619f5">67d8cf09db3600109fb51461399619f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 23:57:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

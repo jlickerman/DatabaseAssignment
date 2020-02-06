@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Database Servers</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Database Servers</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">09370868db1100109fb51461399619f9</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 15:33:08</sys_created_on>
+        <sys_id>f07d3509db3200109fb51461399619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Database Servers</sys_name>
+        <sys_package display_value="Database Assignment" source="x_415993_dba">200cb985db3200109fb51461399619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Database Assignment">200cb985db3200109fb51461399619be</sys_scope>
+        <sys_update_name>sys_wizard_answer_f07d3509db3200109fb51461399619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 15:33:08</sys_updated_on>
+        <table/>
+        <target_url>x_415993_dba_database_server.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
