@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="read_write_code" label="Read/Write Code" language="en" table="x_415993_dba_role">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>read_write_code</element>
+            <help/>
+            <hint/>
+            <label>Read/Write Code</label>
+            <language>en</language>
+            <name>x_415993_dba_role</name>
+            <plural>Read/Write Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-06 23:48:33</sys_created_on>
+            <sys_id>89028235dbf200109fb51461399619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Read/Write Code</sys_name>
+            <sys_package display_value="Database Assignment" source="x_415993_dba">200cb985db3200109fb51461399619be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Database Assignment">200cb985db3200109fb51461399619be</sys_scope>
+            <sys_update_name>sys_documentation_x_415993_dba_role_read_write_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-06 23:48:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

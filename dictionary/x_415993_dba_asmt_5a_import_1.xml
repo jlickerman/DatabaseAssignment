@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="asmt 5A import 1" max_length="40" name="x_415993_dba_asmt_5a_import_1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Class" label="Class" max_length="40" name="u_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Environment" label="Environment" max_length="40" name="u_environment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TCP Port" label="TCP Port" max_length="40" name="u_tcp_port" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version" label="Version" max_length="40" name="u_version" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="ASMT 5A 3.2" max_length="40" name="x_415993_dba_asmt_5a_3_2" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=costcode" label="costcode" max_length="40" name="u_costcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dbinstancename" label="dbinstancename" max_length="40" name="u_dbinstancename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dbinstancestatus" label="dbinstancestatus" max_length="40" name="u_dbinstancestatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dbinstancetype" label="dbinstancetype" max_length="40" name="u_dbinstancetype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dbinstanceversion" label="dbinstanceversion" max_length="40" name="u_dbinstanceversion" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=description" label="description" max_length="255" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=hostname" label="hostname" max_length="40" name="u_hostname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=portnumber" label="portnumber" max_length="40" name="u_portnumber" type="integer"/>
+    </element>
+</database>

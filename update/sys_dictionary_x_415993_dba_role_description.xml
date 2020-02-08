@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-04 20:58:24</sys_created_on>
-        <sys_id>95e70309db3600109fb51461399619fe</sys_id>
+        <sys_id>7b34ef1adb3a00109fb51461399619d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
         <sys_package display_value="Database Assignment" source="x_415993_dba">200cb985db3200109fb51461399619be</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Database Assignment">200cb985db3200109fb51461399619be</sys_scope>
         <sys_update_name>sys_dictionary_x_415993_dba_role_description</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-04 20:58:24</sys_updated_on>
+        <sys_updated_on>2020-02-08 20:14:47</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

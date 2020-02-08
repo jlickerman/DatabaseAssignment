@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="5A3.4" max_length="40" name="x_415993_dba_5a3_4" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbCostCode" label="DbCostCode" max_length="40" name="u_dbcostcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbDescription" label="DbDescription" max_length="403" name="u_dbdescription" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbId" label="DbId" max_length="40" name="u_dbid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbName" label="DbName" max_length="79" name="u_dbname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServer" label="DbServer" max_length="40" name="u_dbserver" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerCostCode" label="DbServerCostCode" max_length="40" name="u_dbservercostcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerDescription" label="DbServerDescription" max_length="163" name="u_dbserverdescription" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerEnvironment" label="DbServerEnvironment" max_length="40" name="u_dbserverenvironment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerHostName" label="DbServerHostName" max_length="40" name="u_dbserverhostname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerId" label="DbServerId" max_length="63" name="u_dbserverid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerStatus" label="DbServerStatus" max_length="40" name="u_dbserverstatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerType" label="DbServerType" max_length="40" name="u_dbservertype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbServerVersion" label="DbServerVersion" max_length="40" name="u_dbserverversion" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DbStatus" label="DbStatus" max_length="40" name="u_dbstatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RoleDescription" label="RoleDescription" max_length="40" name="u_roledescription" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RoleName" label="RoleName" max_length="60" name="u_rolename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RoleReadWriteCode" label="RoleReadWriteCode" max_length="40" name="u_rolereadwritecode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SAS70Indicator" label="SAS70Indicator" max_length="40" name="u_sas70indicator" type="integer"/>
+    </element>
+</database>

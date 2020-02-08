@@ -3,8 +3,12 @@
         <element attributes="encode_utf8=false" label="Database" max_length="32" name="database" reference="x_415993_dba_database" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Read/Write Code" max_length="40" name="read_write_code" type="string"/>
         <index name="index">
             <element name="database"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
         </index>
     </element>
 </database>

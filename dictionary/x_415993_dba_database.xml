@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_db_instance" label="Databases" max_length="40" name="x_415993_dba_database" sizeclass="3" type="collection">
+    <element extends="cmdb_ci_db_instance" label="Databases" max_length="40" name="x_415993_dba_database" type="collection">
         <element attributes="encode_utf8=false" label="Data Server" max_length="32" name="data_server" reference="x_415993_dba_database_server" type="reference"/>
     </element>
 </database>
